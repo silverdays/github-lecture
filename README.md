@@ -168,7 +168,7 @@ star 也是你善意的体现，是在 GitHub 上的良好互动。
 
 ### 点 watch，选择 Releases only
 
-Releases only 表示当有版本发布的时候会邮件通知你。 watching 表示有风吹草动都通知你（如果你选择 wating , 那邮箱需要分类邮件通知，不然会爆炸的）
+Releases only 表示当有版本发布的时候会邮件通知你。 watching 表示有风吹草动都通知你（如果你选择 watching , 那邮箱需要分类邮件通知，不然会爆炸的）
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144227.png)
 
