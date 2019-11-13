@@ -168,7 +168,7 @@ star 也是你善意的体现，是在 GitHub 上的良好互动。
 
 ### 点 watch，选择 Releases only
 
-Releases only 表示当有版本发布的时候会邮件通知你。 watching 表示有风吹草动都通知你（你的邮箱需要分类下邮件，不然会爆炸的）
+Releases only 表示当有版本发布的时候会邮件通知你。 watching 表示有风吹草动都通知你（如果你选择 wating , 那邮箱需要分类邮件通知，不然会爆炸的）
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144227.png)
 
@@ -184,16 +184,28 @@ Releases only 表示当有版本发布的时候会邮件通知你。 watching �
 
 你可以参考[这篇文章](https://www.jianshu.com/p/b365c743ec8d)来提交pr。
 
-如果你阅读了本文，你可以试试提交一个pr在本文`打卡`，来验证一下你已经会使用github了。例如
+如果你阅读了本文，你可以试试提交一个pr在本文**打卡**，来验证一下你已经会使用github提交PR了。例如
 
-```
+```text
 2019/11/13 silverdays initial pos
-// 你的打卡记录
+// 来这里添加一条你的打卡记录吧
+//
 ```
 
-这是一个测试和学习的项目，欢迎你来试验一下。如果我发现你的错误，我会帮你一起指出。
+这是一个测试和学习的项目，欢迎你来试验一下提交PR。如果我发现你的PR错误，我会帮你一起指出的。
 
 # 如果你想尝试完整一些的企业级开源项目
 
 欢迎你 star 和 fork [这个项目](https://github.com/vesoft-inc/nebula)，即使你今天还不是很明白，也能大体体会下企业级的开源是如何工作的。
+
+# 最后，推荐几个不错的学习地址
+
+欢迎你也为本文添加一些学习心得和学习地址，这样可以造福后人。
+
+[github自带教程](https://github.com/silverdays/github-slideshow)
+
+
+## 踩坑记录
+
+如果你踩了什么坑，欢迎记录在这里。
 
