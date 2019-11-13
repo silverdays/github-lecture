@@ -136,9 +136,11 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-那你可以先```git pull```完成合并后，再提交.  关于如何[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
+那你可以先```git pull```完成合并后，再运行命令提交```git push```。
 
-你可以打开浏览器，查看GitHub上结果是否已经更新。
+由于多人开发的时候，冲突非常常见，参考这里查看关于如何[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
+
+如果```git push```成功，你可以打开浏览器，查看GitHub上结果是否已经更新。
 
 ## 学习别人的仓库，并给他提交改动或者问题
 
@@ -148,7 +150,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ### fork 别人的仓库
 
-点击 fork ，把别人的仓库拷贝一份到自己的仓库里面，这样你就可以默默的学习了。
+点击 fork ，把别人的仓库拷贝一份到自己的仓库里面，这样你就可以默默的学习了。比如你可以 fork 本项目，然后做些修改再提交给我（见后）。
+
+比如我这里 fork 了一个很不错的[项目](https://github.com/vesoft-inc/nebula)
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20151355.png)
 
 ### 点击 star
 
