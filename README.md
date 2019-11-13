@@ -16,7 +16,7 @@ git 是最常见和主流的版本工具。历史上还有 svn。
 
 GitHub 上的项目可以选择是公开的或者私有的。除了可以存放自己的代码和文件外，也有非常多人把自己的学习心得放在上面，是个非常好的学习平台。
 
-GitHub 是使用 git 来做版本管理。
+GitHub 是使用 git 来做版本管理，并使用 markdown（https://www.runoob.com/markdown/md-title.html） 来撰写文本。
 
 ## 环境准备
 
@@ -26,12 +26,36 @@ GitHub 是使用 git 来做版本管理。
 
 可以参考[这篇文章](https://zhuanlan.zhihu.com/p/30044692)
 
+## 基本的 git 命令
+
+常用的 git 命令大概有十几个，你可以参考[这里](https://zhuanlan.zhihu.com/p/25868120)。
+
+你可以结合后续github上的仓库，来学习下如何使用git命令。
 
 
+```text
+git init
+git clone
+git config
+git add
+git rm 
+git mv 
+git commit
+git branch
+git checkout
+git log
+git status
+git diff
+git pull
+git push
+```
 
+## 基本的 GitHub 操作
 
-## 版本管理工具 git 使用
+### 建立一个Repo
 
+GitHub 上的工程项目称为 `Repository` (不是Project），通常简称为 `repo`。你可以自己建立一个学习用的 repo，比如我现在这个 repo 叫做 `github-lecture`.
 
+### 将这个远程的 Repo clone 到本地的机器上
 
 
