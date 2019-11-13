@@ -144,11 +144,24 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 点击 fork ，把别人的仓库拷贝一份到自己的仓库里面，这样你就可以默默的学习了。
 
-
 ### 点击 star
 
 点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144042.png)
+
+### 点 watch，选择 Releases only
+
+Releases only 表示当有版本发布的时候会邮件通知你。 watching 表示有风吹草动都通知你（你的邮箱需要分类下邮件，不然会爆炸的）
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144227.png)
+
+### 给他提交 issue
+
+当你有任何疑问的时候，可以给他提交一个issue。维护良好的项目会有人来帮忙回答问题。不要害羞，GitHub上的作者都是非常热情的，这也是你学习和交流的好机会。使用中文或者英文都是可以的。
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144755.png)
+
+
 
 
