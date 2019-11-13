@@ -39,10 +39,10 @@ GitHub 是使用 git 来做版本管理，并使用 [markdown](https://www.runoo
 ## 环境准备
 
 1. 注册github账号： https://github.com/
-1. windows 环境可以下载 命令行工具 `git bash for windows`, 或者用 `vscode`，或者 GUI 工具 `GitKraken`. 
+1. windows 环境可以下载 命令行工具 `git bash for windows`, 或者用 `vscode`，或者 GUI 工具 `GitKraken`，或者直接点击链接下载https://gitforwindows.org/. 
 1. linux 的用户可以 yum install -y git
 
-可以参考[这篇文章](https://zhuanlan.zhihu.com/p/30044692)
+准备环境可以参考[这篇文章](https://zhuanlan.zhihu.com/p/30044692)
 
 ## 基本的 git 命令
 
