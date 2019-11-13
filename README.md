@@ -14,6 +14,7 @@
 
 git 是最常见和主流的版本工具。历史上还有 svn。
 
+
 ### GitHub
 
 [GitHub](https://github.com/) 是一个美国公司维护的网站。github 的竞争者还有 [gitlab](https://git.lug.ustc.edu.cn/users/sign_in), [gitee](https://gitee.com/)。 
@@ -23,6 +24,13 @@ git 是最常见和主流的版本工具。历史上还有 svn。
 GitHub 上的项目可以选择是公开的或者私有的。除了可以存放自己的代码和文件外，也有非常多人把自己的学习心得放在上面，是个非常好的学习平台。
 
 GitHub 是使用 git 来做版本管理，并使用 markdown（https://www.runoob.com/markdown/md-title.html） 来撰写文本。
+
+git 操作有4个相关的概念：
+
+- 你笔记本上的windows目录，这个文件还没有被git所管理
+- 你笔记本上的git工作区，在你本地已经被git所管理
+- 你的GitHub仓库，这个是在远程的
+- 别人的GitHub仓库，这个也在远程，你通常会fork到你的仓库慢慢研究
 
 ## 环境准备
 
@@ -56,7 +64,7 @@ git pull
 git push
 ```
 
-## 基本的 GitHub 操作
+## 基本的 GitHub 操作（在自己的空间里面）
 
 ### 建立一个Repo
 
@@ -64,7 +72,7 @@ GitHub 上的工程项目称为 `Repository` (不是Project），通常简称为
 
 ### 将这个远程的 Repo clone 到本地的机器上
 
-复制这个HTTPS的地址，
+复制这个HTTPS的地址，（***换成你的空间项目地址***）
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20134535.png)
 
@@ -77,3 +85,26 @@ git clone https://github.com/silverdays/github-lecture.git
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20135050.png)
 
 > 通常你不需要在本地新建一个项目目录，clone 的时候会为你建好这个项目目录
+
+### 做一些本地修改，并提交到本地git仓库。
+
+你可以用文本编辑器，对文件做一些修改，然后保存。
+
+下面这个命令```git status```可以看到我们修改了 README.MD 文件，并且新增加了一个文件。（中文的文件名`git bash`显示有些问题，但是是可以正常工作的）
+
+```shell
+git status
+```
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20140117.png)
+
+用 ```git add``` 把新增加的文件交给git管理。你可以看到未管理的文件是红色，已管理的文件是绿色。
+
+```shell
+git add 批注\ 2019-11-13\ 135944.png
+```
+
+然后用 ```git commit -a ``` 提交给你本地的仓库。但这个时候还没有提交到远程仓库中。
+
+
+
