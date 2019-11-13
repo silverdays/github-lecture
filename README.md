@@ -110,7 +110,28 @@ git add 批注\ 2019-11-13\ 135944.png
 
 你需要配置一些权限，来保证你可以推送到远程的仓库（否则别人可以随便删除你的文件了）
 
-参考[这篇文章](https://blog.csdn.net/u013778905/article/details/83501204)来配置权限
+参考[这篇文章](https://blog.csdn.net/u013778905/article/details/83501204)来配置权限。
 
+GitHub多账户问题可以参考[这里](https://blog.csdn.net/Candy_mi/article/details/86157288)
+
+```shell
+git push
+```
+
+以下提示说明有其他人有更改，
+
+```text
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/silverdays/github-lecture.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+
+那你可以先```git pull```完成合并后，再提交.  
+
+关于如何[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
 
 
