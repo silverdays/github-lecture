@@ -58,10 +58,16 @@ GitHub 上的工程项目称为 `Repository` (不是Project），通常简称为
 
 ### 将这个远程的 Repo clone 到本地的机器上
 
-复制这个HTTPS的地址，然后在你的 `git bash for windows` 里面输入
+复制这个HTTPS的地址，
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20134535.png)
+
+然后在你的 `git bash for windows` 里面输入
 
 ```shell
-git clone 
+git clone https://github.com/silverdays/github-lecture.git
 ```
 
-![]https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20134535.png
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20135050.png)
+
+> 通常你不需要在本地新建一个项目目录，clone 的时候会为你建好这个项目目录
