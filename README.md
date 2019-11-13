@@ -152,15 +152,19 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 点击 fork ，把别人的仓库拷贝一份到自己的仓库里面，这样你就可以默默的学习了。比如你可以 fork 本项目，然后做些修改再提交给我（见后）。
 
-比如我这里 fork 了一个很不错的[项目](https://github.com/vesoft-inc/nebula)
+比如我这里 fork 了一个很不错的[项目](https://github.com/vesoft-inc/nebula), GitHub 提示我它的来源是 vesoft-inc/nebula.
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20151355.png)
 
 ### 点击 star
 
-点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。star 也是你善意的体现。
+点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144042.png)
+
+star 也是你善意的体现，是在 GitHub 上的良好互动。
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20151725.png)
 
 ### 点 watch，选择 Releases only
 
