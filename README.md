@@ -27,7 +27,7 @@ git 是最常见和主流的版本工具。历史上还有 svn。
 
 GitHub 上的项目可以选择是公开的或者私有的。除了可以存放自己的代码和文件外，也有非常多人把自己的学习心得放在上面，是个非常好的学习平台。
 
-GitHub 是使用 git 来做版本管理，并使用 markdown（https://www.runoob.com/markdown/md-title.html） 来撰写文本。
+GitHub 是使用 git 来做版本管理，并使用 [markdown](https://www.runoob.com/markdown/md-title.html) 来撰写文本。
 
 git 操作有4个相关的概念：
 
