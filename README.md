@@ -130,8 +130,25 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-那你可以先```git pull```完成合并后，再提交.  
+那你可以先```git pull```完成合并后，再提交.  关于如何[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
 
-关于如何[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
+你可以打开浏览器，查看GitHub上结果是否已经更新。
+
+## 学习别人的仓库，并给他提交改动或者问题
+
+我们除了可以使用自己的github仓库作为一个远程的备份外，GitHub 的一个很大的作用是学习别人的仓库，并给他提交一些更新或者问题。
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20143731.png)
+
+### fork 别人的仓库
+
+点击 fork ，把别人的仓库拷贝一份到自己的仓库里面，这样你就可以默默的学习了。
+
+
+### 点击 star
+
+点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。
+
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144042.png)
 
 
