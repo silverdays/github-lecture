@@ -146,7 +146,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ### 点击 star
 
-点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。
+点 star 相当于淘宝上的收藏，你可以下次方便找到这个项目。star 也是你善意的体现。
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144042.png)
 
@@ -162,6 +162,22 @@ Releases only 表示当有版本发布的时候会邮件通知你。 watching �
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20144755.png)
 
+### 给他提交一些代码或者更新 (pull request)
 
+你也许会发现他的代码或者文档里面有些错误（比如这篇文档里面，我有意遗漏了一些错误），那么你就可以给他提交一个 pull request (pr)，帮他 fix 这些错误。如果他审核同意审核，就能合并你的pr到他的仓库中。
 
+你可以参考[这篇文章](https://www.jianshu.com/p/b365c743ec8d)来提交pr。
+
+如果你阅读了本文，你可以试试提交一个pr在本文`打卡`，来验证一下你已经会使用github了。例如
+
+```
+2019/11/13 silverdays initial pos
+// 你的打卡记录
+```
+
+这是一个测试和学习的项目，欢迎你来试验一下。如果我发现你的错误，我会帮你一起指出。
+
+# 如果你想尝试完整一些的企业级开源项目
+
+欢迎你 star 和 fork [这个项目](https://github.com/vesoft-inc/nebula)，即使你今天还不是很明白，也能大体体会下企业级的开源是如何工作的。
 
