@@ -74,6 +74,8 @@ git push
 
 GitHub 上的工程项目称为 `Repository` (不是Project），通常简称为 `repo`。你可以自己建立一个学习用的 repo，比如我现在这个 repo 叫做 `github-lecture`.
 
+![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20150901.png)
+
 ### 将这个远程的 Repo clone 到本地的机器上
 
 复制这个HTTPS的地址，（**换成你的空间项目地址**）
