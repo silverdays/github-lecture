@@ -202,8 +202,8 @@ Releases only 表示当有版本发布的时候会邮件通知你。 watching �
 
 欢迎你也为本文添加一些学习心得和学习地址，这样可以造福后人。
 
-[github自带教程](https://github.com/silverdays/github-slideshow)
-[知乎上不错的总结](https://www.zhihu.com/question/21669554/answer/890230959)
+- [github自带教程](https://github.com/silverdays/github-slideshow)
+- [知乎上不错的总结](https://www.zhihu.com/question/21669554/answer/890230959)
 
 ## 踩坑记录
 
