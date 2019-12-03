@@ -105,6 +105,7 @@ git status
 
 ![](https://github.com/silverdays/github-lecture/blob/master/%E6%89%B9%E6%B3%A8%202019-11-13%20140117.png)
 
+
 用 ```git add``` 把新增加的文件交给git管理。你可以看到未管理的文件是红色，已管理的文件是绿色。
 
 ```shell
