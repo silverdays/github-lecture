@@ -21,7 +21,8 @@ git 是最常见和主流的版本工具。历史上还有 svn。
 
 ### GitHub
 
-[GitHub](https://github.com/) 是一个美国公司维护的网站。github 的竞争者还有 [gitlab](https://git.lug.ustc.edu.cn/users/sign_in), [gitee](https://gitee.com/)。 
+[GitHub](https://github.com/) 是一个美国公司维护的网站。github 的竞争者还有
+[gitlab](https://git.lug.ustc.edu.cn/users/sign_in), [gitee](https://gitee.com/)。 
 
 如果你不想把文件放在它们网站上，也可以非常方便的在自己的服务器上私有部署。
 
@@ -51,7 +52,7 @@ GitHub 是使用 git 来做版本管理，并使用 [markdown](https://www.runoo
 你可以结合后续github上的仓库，来学习下如何使用git命令。
 
 
-```text
+```bash
 git init
 git clone
 git config
