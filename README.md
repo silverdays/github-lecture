@@ -186,19 +186,35 @@ Releases only 表示当有版本发布的时候会邮件通知你。 watching �
 
 你可以参考[这篇文章](https://www.jianshu.com/p/b365c743ec8d)来提交pr。
 
+
 如果你阅读了本文，你可以试试提交一个pr在本文**打卡**，来验证一下你已经会使用github提交PR了。例如
 
 ```text
 2019/11/13 silverdays initial pos
 // 来这里添加一条你的打卡记录吧
-// jch 2019/12/3
-// mine
+// TTTTerry 2019/12/03
+// Johnson 2019/12/03
+// cxb 2019/12/3
+// NekoKedama 2019/12/3
+// jch 2019/12/10
+```
+>>>>>>> f576019471b785dc22e155708544b3665ce4b6d3
+
+有些同学会遇到冲突的问题， 试试参考这里来[解决冲突合并](https://blog.csdn.net/qq_24735877/article/details/80847372).
+
 
 这是一个测试和学习的项目，欢迎你来试验一下提交PR。如果我发现你的PR错误，我会帮你一起指出的。
 
 # 如果你想尝试完整一些的企业级开源项目
 
-欢迎你 star 和 fork [这个项目](https://github.com/vesoft-inc/nebula)，即使你今天还不是很明白，也能大体体会下企业级的开源是如何工作的。
+欢迎你 <a href="http://githubbadges.com/star.svg?user=vesoft-inc&repo=nebula&style=default">
+    <img src="http://githubbadges.com/star.svg?user=vesoft-inc&repo=nebula&style=default" alt="nebula star"/>
+  </a> 和 <a href="http://githubbadges.com/fork.svg?user=vesoft-inc&repo=nebula&style=default">
+    <img src="http://githubbadges.com/fork.svg?user=vesoft-inc&repo=nebula&style=default" alt="nebula fork"/>
+  </a> [这个项目](https://github.com/vesoft-inc/nebula)，
+
+
+即使你今天还不是很明白，也能大体体会下企业级的开源是如何工作的。
 
 # 最后，推荐几个不错的学习地址
 
@@ -210,4 +226,4 @@ Releases only 表示当有版本发布的时候会邮件通知你。 watching �
 ## 踩坑记录
 
 如果你踩了什么坑，欢迎记录在这里。
-
+111
